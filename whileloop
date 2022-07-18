@@ -1,0 +1,65 @@
+def count_down_100():
+    counter = 100
+
+    while(counter >= 0):
+        print(counter)
+        counter -= 1
+     
+
+
+
+count_down_100()
+
+
+
+
+def count_up_100():
+    counter = 100
+
+    while (counter >= 0):
+        print(counter)
+        counter -= 1
+
+
+count_up_100()
+
+
+
+
+
+def password():
+
+    while (input("enter the password: ") != "scuba"):
+        print("password not correct")
+    print ("password correct")
+        
+
+#password()
+
+
+def dice_game():
+    total = 0
+    while total <=21:
+        total += random.randi
+
+
+
+
+
+
+
+
+def cornhole_score_counter():
+    red_total=0
+    blue_total=0
+    round_num=1
+    while red_total < 21 and blue_total < 21:
+        red_round_score = int (input("enter red score: "))
+        blue_round_score = int(input("enter blue score: "))
+        if red_score >  blue_score
+
+cornhole_score_counter()
+
+
+    
+    
