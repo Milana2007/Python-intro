@@ -29,3 +29,7 @@ def print_first_3(1st):
 lst = ["1", "2", "3"]
 
 print_first_3()
+
+
+My_animals = ["Giraffe, Lion, Flamingo, Rhino, Elaphant"]
+My animals.append("Panda, Monkey")

@@ -1,0 +1,11 @@
+import pygame
+import sys
+
+
+
+
+pygame.init()
+win = pygame.display.set_mode((300,300))
+pygame.display.set_caption('stopwatch')
+
+theFont = pygame.font.SysFont(False,70)

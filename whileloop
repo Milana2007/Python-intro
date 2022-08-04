@@ -56,7 +56,9 @@ def cornhole_score_counter():
     while red_total < 21 and blue_total < 21:
         red_round_score = int (input("enter red score: "))
         blue_round_score = int(input("enter blue score: "))
-        if red_score >  blue_score
+        if red_score >  blue_score:
+            red_total += ()
+    
 
 cornhole_score_counter()
 
